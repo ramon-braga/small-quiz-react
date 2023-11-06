@@ -7,6 +7,16 @@ export const questions = [
             'Whater',
             'Sugar'
         ],
-        answer: 0
+        answer: 1
+    },
+    {
+        question: 'What is the best cooking method?',
+        options: [
+            'Microwave oven',
+            'Stove',
+            'Bonfire',
+            'Flamethrower'
+        ],
+        answer: 3
     }
 ]
